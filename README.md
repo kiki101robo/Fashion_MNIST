@@ -24,6 +24,11 @@ Ensure you have the following installed:
 - Matplotlib
 - tqdm
 
-You can install the required packages using the following command:
+### Installation
+Clone this repository to get started with the project:
 ```bash
-pip install torch torchvision numpy matplotlib tqdm
+git clone https://github.com/your-repository/fashion-mnist-classification.git
+cd fashion-mnist-classification
+
+
+
