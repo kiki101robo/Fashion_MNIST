@@ -1,7 +1,5 @@
 # Fashion_MNIST
 
-Project Overview
-This repository contains a machine learning project that utilizes PyTorch to classify images from the FashionMNIST dataset. The project explores several neural network architectures to identify different clothing items from the dataset, which includes 10 different classes such as T-shirts/tops, Trousers, Pullovers, Dresses, Coats, Sandals, Shirts, Sneakers, Bags, and Ankle boots.
 
 
 Project Overview
